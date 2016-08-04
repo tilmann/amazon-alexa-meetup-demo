@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.312f16c7-c0e0-82f3-81237e40b358",
+    "application": {
+      "applicationId": "amzn1.ask.skill.c0bff1f6-ed98-2c5df98e3169"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFP3ZW"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.26de1e05-4e3c-a532-148c3dc8aeac",
+    "locale": "en-US",
+    "timestamp": "2016-08-02T10:00:04Z",
+    "intent": {
+      "name": "postLunchPlan",
+      "slots": {
+        "foodtype": {
+          "name": "foodtype",
+          "value": "Italian"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
